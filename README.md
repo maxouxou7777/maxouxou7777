@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 About Me:
 I lost my old github account @maxouxou77
-![]My name is Maxime and I'm from France !
+My name is Maxime and I'm from France !
 My website http://maxoupage.free.fr
 
 
